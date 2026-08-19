@@ -3,6 +3,7 @@
 # 👋 ¡Hola! Soy Exar Williams Atao Paucar
 ### 💻 Desarrollador de Software Web & Móvil • 📍 Huancayo, Junín, Perú
 
+[![Curriculum Vitae](https://img.shields.io/badge/📄_Curriculum_Vitae-Ver_Online-0284c7?style=for-the-badge&logo=googledocs&logoColor=white)](https://diancy01.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Diancy01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diancy01)
 [![Email](https://img.shields.io/badge/Email-williamsatao1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamsatao1@gmail.com)
 [![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Huancayo%2C%20Per%C3%BA-0284c7?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
@@ -10,7 +11,7 @@
 ---
 
 ### 🏆 Galardón Oficial Universitario
-[![Premio UPLA](https://img.shields.io/badge/2do%20Puesto%20en%20Innovaci%C3%B3n%20T%C3%A9cnica-Res.%20Rectoral%20UPLA%20N%C2%BA%20009--2026-b45309?style=for-the-badge&logo=trophy&logoColor=white)](https://github.com/Diancy01)
+[![Premio UPLA](https://img.shields.io/badge/2do%20Puesto%20en%20Innovaci%C3%B3n%20T%C3%A9cnica-Res.%20Rectoral%20UPLA%20N%C2%BA%20009--2026-b45309?style=for-the-badge&logo=trophy&logoColor=white)](https://github.com/Diancy01/qatunas-ai-ecommerce)
 
 > **Proyecto Premiado:** *"Aplicación de Inteligencia Artificial para la Optimización e Impulso de las Ventas en el Sistema de E-Commerce QATUNAS"*  
 > **Otorgado por:** Universidad Peruana Los Andes (UPLA) — I Encuentro de Innovación y Transferencia Tecnológica.
