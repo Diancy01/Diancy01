@@ -4,7 +4,7 @@
 ### 💻 Desarrollador de Software Web & Móvil • 📍 Huancayo, Junín, Perú
 
 [![Descargar CV PDF](https://img.shields.io/badge/📥_Descargar_CV-(PDF)-dc2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_Williams_Atao.pdf)
-[![Ver CV Online](https://img.shields.io/badge/🌐_Ver_CV-Online-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://diancy01.github.io/)
+[![Ver CV Online](https://img.shields.io/badge/🌐_Ver_CV-HTML-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](./index.html)
 [![GitHub](https://img.shields.io/badge/GitHub-Diancy01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diancy01)
 [![Email](https://img.shields.io/badge/Email-williamsatao1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamsatao1@gmail.com)
 [![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Huancayo%2C%20Per%C3%BA-059669?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
@@ -30,15 +30,15 @@
 * ⚡ **Enfoque:** Código limpio, buenas prácticas, arquitectura escalable y aprendizaje continuo autodidacta.
 
 <details>
-  <summary><strong>📄 Vista Previa del Curriculum Vitae Oficial (Haz clic para ver)</strong></summary>
+  <summary><strong>📄 Vista Previa del Curriculum Vitae Oficial (Haz clic para expandir)</strong></summary>
   <br>
   <div align="center">
     <a href="./CV_Williams_Atao.pdf" target="_blank">
       <img src="./cv_preview.png" alt="Curriculum Vitae — Exar Williams Atao Paucar" width="70%" style="border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
     </a>
     <p>
-      <a href="./CV_Williams_Atao.pdf">📥 <strong>Descargar CV en PDF</strong></a> • 
-      <a href="https://diancy01.github.io/">🌐 <strong>Ver CV Interactivo Online</strong></a>
+      <a href="./CV_Williams_Atao.pdf">📥 <strong>Descargar CV en PDF Directo</strong></a> • 
+      <a href="./index.html">🌐 <strong>Abrir Versión Web Interactiva</strong></a>
     </p>
   </div>
 </details>
